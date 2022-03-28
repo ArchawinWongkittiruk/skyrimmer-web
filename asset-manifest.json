@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/skyrimmer-web/static/js/main.fe686778.js",
+    "index.html": "/skyrimmer-web/index.html",
+    "main.fe686778.js.map": "/skyrimmer-web/static/js/main.fe686778.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fe686778.js"
+  ]
+}
